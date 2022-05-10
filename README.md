@@ -1,4 +1,4 @@
-# Moviemaker a React full app demonsration
+# Moviemaker a React full app demonstration
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
